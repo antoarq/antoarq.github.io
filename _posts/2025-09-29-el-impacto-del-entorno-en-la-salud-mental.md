@@ -2,7 +2,7 @@
 layout: post
 title:  El impacto del entorno en la salud mental
 date:   2025-09-29 16:03:00 +0300
-image:  ../img/02.jpg
+image:  ../img/2025-09-29-el-impacto-del-entorno-en-la-salud-mental\el-impacto-del-entorno-en-la-salud-mental-portada.jpg
 tags:   Cities
 ---
 

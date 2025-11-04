@@ -89,3 +89,7 @@
 .screen-reader-text {
 	@include screen-reader();
 }
+
+.logo-svg {
+	height: 30px;
+}

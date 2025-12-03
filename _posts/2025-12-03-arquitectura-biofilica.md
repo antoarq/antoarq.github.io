@@ -2,7 +2,7 @@
 layout: post
 title:  Arquitectura Biofilica
 date:   2025-12-03
-image:  img/2025-12-03-arquitectura-biofilica/2025-12-03-arbol.jpg
+image:  2025-12-03-arquitectura-biofilica/2025-12-03-arbol.jpg
 tags:   Cities
 ---
 
@@ -14,14 +14,12 @@ El concepto de 'biofilia' fue introducido originalmente por el psicólogo social
 Fromm afirmó que la esencia de la biofilia es el amor a la vida. Esta orientación constituye una predisposición vital total, cuya forma más elemental se manifiesta en la tendencia inherente a la supervivencia de todos los organismos vivos. (1.)
 
 *"Observamos esta tendencia a vivir en toda la materia viva que nos rodea; en la hierba que crece entre las piedras en busca de luz y de vida; en el animal que luchará hasta lo último para escapar a la muerte; en el hombre que dará casi cualquier cosa para conservar la vida"* 
-
 <p style="text-align: right;">Erich Fromm. El Corazón Del Hombre. Su potencia para el bien y para el mal. P. 35</p>
 
 
 Años más tarde, el biólogo Edward O. Wilson popularizó este termino, en su libro de 1984 titulado *Biophilia*, donde la definió *"como la tendencia innata a centrarse en la vida y en los procesos que la asemejan"*(2.), señalando que el cerebro humano evolucionó durante un periodo de unos dos millones de años mientras los humanos existían como cazadores y recolectores en íntimo contacto con el medio ambiente natural. 
 
 *"Porque si los animales eligen hábitats mediante dispositivos de orientación y aprendizaje predefinidos, incorporados durante generaciones de selección natural, es posible que las personas hagan lo mismo. Si ciertos sentimientos humanos son innatos, podrían no ser fáciles de expresar en lenguaje racional. Un enfoque más prometedor es explorar la naturaleza del entorno en el que evolucionó el cerebro."* 
-
 <p style="text-align: right;">Edward O. Wilson. Biophilia. P. 109</p>
 
 
@@ -30,7 +28,6 @@ Wilson encuentra apoyo para esta idea en los trabajos de Gordon Orians y Judith 
 En su libro, cita a Orians como uno de los científicos que sugirieron que la mente está "predispuesta a la vida en la sabana":
 
 *"Orians, en particular, ha elaborado la idea según la teoría evolutiva moderna y ha añadido un pequeño pero sugerente conjunto de pruebas que la respaldan. Según su formulación, el entorno ancestral contenía tres características clave. En primer lugar, la sabana, por sí sola, sin ningún otro añadido, ofrecía una abundancia de alimentos animales y vegetales a los que los homínidos omnívoros estaban bien adaptados, así como la visión clara necesaria para detectar animales y bandas rivales a largas distancias. En segundo lugar, era deseable un cierto relieve topográfico. Acantilados, montículos y crestas eran los puntos estratégicos desde los que se podía realizar una vigilancia aún más lejana, mientras que sus salientes y cuevas servían como refugios naturales por la noche. Durante las marchas más largas, los grupos dispersos de árboles proporcionaban refugios auxiliares que albergaban cuerpos de agua potable. Por último, los lagos y ríos ofrecían peces, moluscos y nuevos tipos de plantas comestibles. Dado que pocos enemigos naturales del hombre pueden cruzar aguas profundas, las costas se convirtieron en perímetros naturales de defensa."*
-
 <p style="text-align: right;">Edward O. Wilson. Biophilia. P. 110</p>
 
 
@@ -40,14 +37,12 @@ En su libro, cita a Orians como uno de los científicos que sugirieron que la me
 La teoría evolutiva subyacente a la hipótesis de Orians y Heerwagen, revela la influencia que tiene el habitat sobre nuestras emociones, sugiriendo que la atracción por paisajes con características de sabana (vistas despejadas, refugios y agua) no es una elección aprendida, sino una preferencia biológica grabada por la evolución.
 
 *"La teoría evolutiva sugiere que la capacidad de un paisaje para evocar estados emocionales positivos debería estar correlacionada positivamente con la supervivencia y el éxito reproductivo esperados de los individuos de esa especie en él. En otras palabras, los buenos hábitats deberían evocar respuestas positivas fuertes; los hábitats deficientes deberían evocar respuestas débiles o negativas."*
-
 <p style="text-align: right;">Gordon H. Orians. Savanna Hypothesis</p>
 
 
 Este concepto, aplicado a la realidad humana moderna, evidencia la necesidad de retomar nuestras necesidades biológicas profundas. En relación con este desajuste temporal entre nuestra evolución y nuestro hábitat actual, los autores advierten que:
 
 *"Hemos vivido en entornos mecanizados y urbanos durante relativamente pocas generaciones. A menos que haya habido una fuerte contraselección en su contra, no ha transcurrido suficiente tiempo para que nuestros patrones de respuesta evolutivos a los paisajes se hayan modificado sustancialmente en los entornos radicalmente nuevos y diferentes en los que vivimos hoy. Las respuestas emocionales iniciales de las personas a un entorno desconocido son casi instantáneas y no cognitivas."*
-
 <p style="text-align: right;">Gordon H. Orians. Savanna Hypothesis</p>
 
 

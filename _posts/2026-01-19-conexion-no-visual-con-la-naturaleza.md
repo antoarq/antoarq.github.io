@@ -6,7 +6,9 @@ image:  ../img/conexion-no-visual/grow-residence17.jpg
 tags:   Cities
 ---
 
-*"Cada experiencia conmovedora de la arquitectura es multisensorial; las cualidades del espacio, de la materia y de la escala se miden a partes iguales por el ojo, el oído, la nariz, la piel, la lengua, el esqueleto y el músculo. "* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"Cada experiencia conmovedora de la arquitectura es multisensorial; las cualidades del espacio, de la materia y de la escala se miden a partes iguales por el ojo, el oído, la nariz, la piel, la lengua, el esqueleto y el músculo." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 43</p>
 
@@ -24,7 +26,9 @@ En el ámbito psicológico, los sujetos del grupo de estimulación mostraron una
 
 Estos cambios sugieren que el aroma del suelo forestal posee una capacidad intrínseca para reducir emociones negativas y potenciar estados de calma, lo cual se vinculó también con la reducción en la frecuencia cardíaca de los participantes. Esta respuesta psicológica positiva parece estar influenciada, además, por la activación de memorias autobiográficas placenteras que los sujetos asociaron con el estímulo olfativo, como recuerdos de la infancia relacionados con parques, bosques o experiencias en la naturaleza, lo que potencia el efecto curativo del estímulo. Esto se debe a que el sentido del olfato penetra en el sistema límbico, responsable del procesamiento de la memoria y la creación de emociones, y llega al hipotálamo, que también es un centro nervioso autónomo. En consecuencia, la respuesta emocional de un individuo estimulado por un aroma puede provocar cambios fisiológicos en las ondas cerebrales y diversas funciones del sistema nervioso autónomo.
 
-*"Un olor particular nos hace volver a entrar sin darnos cuenta en un espacio completamente olvidado por la memoria retiniana; las ventanas de la nariz despiertan una imagen olvidada y caemos en una vívida ensoñación. La nariz hace que los ojos recuerden."* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"Un olor particular nos hace volver a entrar sin darnos cuenta en un espacio completamente olvidado por la memoria retiniana; las ventanas de la nariz despiertan una imagen olvidada y caemos en una vívida ensoñación. La nariz hace que los ojos recuerden." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 55</p>
 
@@ -32,7 +36,9 @@ Los efectos curativos y los recuerdos personales agradables inducidos por el aro
 
 Este concepto biofílico encuentra un eco profundo en la filosofía de Juhani Pallasmaa en *"Los ojos de la piel"*, donde se critica el ocularcentrismo de la cultura occidental y se aboga por una arquitectura que reconozca que todos los sentidos son especializaciones del tejido cutáneo y modalidades del tacto. 
 
-*"La visión revela lo que el tacto ya conoce. Podríamos pensar en el sentido del tacto como en el inconsciente de la vista. Nuestros ojos acarician superficies, contornos y bordes lejanos y la sensación táctil inconsciente determina lo agradable o desagradable de la experiencia. Lo distante y lo cercano se experimentan con la misma intensidad y se funden en una experiencia coherente."* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"La visión revela lo que el tacto ya conoce. Podríamos pensar en el sentido del tacto como en el inconsciente de la vista. Nuestros ojos acarician superficies, contornos y bordes lejanos y la sensación táctil inconsciente determina lo agradable o desagradable de la experiencia. Lo distante y lo cercano se experimentan con la misma intensidad y se funden en una experiencia coherente." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 44</p>
 
@@ -42,9 +48,12 @@ La evidencia científica en el diseño biofílico demuestra que estos estímulos
 
 En el diseño de espacios, este patrón se integra mediante el uso de materiales con texturas naturales que invitan al tacto, como la madera sin tratar o la piedra, y a través de sistemas que incorporan sonidos ambientales sutiles o fragancias botánicas que evocan ecosistemas específicos. La eficacia de esta conexión radica en su capacidad para reducir la fatiga cognitiva y mejorar la concentración, ya que el cerebro humano procesa estas señales naturales de manera instintiva, reconociéndolas como indicadores de un entorno seguro y saludable. 
 
+
 # Estímulos Auditivos
 
-*"La vista aísla mientras que el sonido incluye; la vista es direccional mientras que el sonido es omnidireccional. El sentido de la vista implica exterioridad, pero el sonido crea una sensación de interioridad. Contemplo un objeto, pero el sonido me llega; el ojo alcanza, pero el oído recibe. Los edificios no reaccionan a nuestra mirada, pero nos devuelven nuestros sonidos al oído."* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"La vista aísla mientras que el sonido incluye; la vista es direccional mientras que el sonido es omnidireccional. El sentido de la vista implica exterioridad, pero el sonido crea una sensación de interioridad. Contemplo un objeto, pero el sonido me llega; el ojo alcanza, pero el oído recibe. Los edificios no reaccionan a nuestra mirada, pero nos devuelven nuestros sonidos al oído." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 50</p>
 
@@ -66,7 +75,9 @@ Cuando el viento y las olas empujan el aire y el agua hacia los tubos, éstos ac
 
 El resultado es una melodía en constante cambio, dictada por el ritmo y la fuerza del mar, creando una experiencia acústica única y ligada al entorno natural.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YREFMRGMzLU?si=YCYnhTBZDb_W8KiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Capilla del hotel de Ecotono en Biwako, Japon - Sonido del Viento de Ryuichi Ashizawa Architects
 
@@ -103,11 +114,15 @@ Este sonido siempre cambiante, refleja la intensidad del viento y las condicione
 
 Además, la ubicación privilegiada de la capilla frente al lago garantiza que el sonido natural y rítmico del agua y las olas del Biwa se integre constantemente en la experiencia auditiva del espacio, reforzando la conexión no visual con el entorno acuático y atmosférico circundante.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKVz0ipyCBU?si=i1xgClFiWQjouDXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # Estímulos olfativos y gustativos
 
-*"Existe una sutil transferencia entre las experiencias táctiles y las gustativas. La vista también se transfiere al gusto; ciertos colores y detalles delicados evocan sensaciones orales. La lengua siente subliminalmente la superficie de una piedra pulida delicadamente coloreada. Nuestra experiencia sensorial del mundo se origina en la sensación interior de la boca y el mundo tiende a volver a sus orígenes orales. El origen más arcaico del espacio arquitectónico está en la cavidad bucal."* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"Existe una sutil transferencia entre las experiencias táctiles y las gustativas. La vista también se transfiere al gusto; ciertos colores y detalles delicados evocan sensaciones orales. La lengua siente subliminalmente la superficie de una piedra pulida delicadamente coloreada. Nuestra experiencia sensorial del mundo se origina en la sensación interior de la boca y el mundo tiende a volver a sus orígenes orales. El origen más arcaico del espacio arquitectónico está en la cavidad bucal." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 60</p>
 
@@ -135,9 +150,12 @@ Este enfoque va más allá de la mera estética verde, utilizando los sentidos d
 
 <p style="text-align: right;">Grow Residence de Modern Office of Design + Architecture (MODA) (7.)</p>
 
+
 # Estímulos Táctiles
 
-*"La piel lee la textura, el peso, la densidad y la temperatura de la materia. La superficie de un objeto viejo, pulido hasta la perfección por la herramienta del artesano y las manos diligentes de sus usuarios, seduce a la caricia de la mano."* (1.)
+<blockquote style="margin-left: 30px;">
+  <i>"La piel lee la textura, el peso, la densidad y la temperatura de la materia. La superficie de un objeto viejo, pulido hasta la perfección por la herramienta del artesano y las manos diligentes de sus usuarios, seduce a la caricia de la mano." (1.)</i>
+</blockquote>
 
 <p style="text-align: right;">Juhani Pallasmaa. Los ojos en la piel. La arquitectura de los sentidos. P. 58</p>
 

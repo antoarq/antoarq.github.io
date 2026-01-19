@@ -2,7 +2,7 @@
 layout: post
 title:  Conexion No Visual Con La Naturaleza
 date:   2026-01-19
-image:  conexion-no-visual\grow-residence17.jpg 
+image:  ../img/conexion-no-visual\grow-residence17.jpg 
 tags:   Cities
 ---
 
@@ -66,7 +66,7 @@ Cuando el viento y las olas empujan el aire y el agua hacia los tubos, éstos ac
 
 El resultado es una melodía en constante cambio, dictada por el ritmo y la fuerza del mar, creando una experiencia acústica única y ligada al entorno natural.
 
-https://www.youtube.com/watch?v=YREFMRGMzLU&t=38s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YREFMRGMzLU?si=YCYnhTBZDb_W8KiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Capilla del hotel de Ecotono en Biwako, Japon - Sonido del Viento de Ryuichi Ashizawa Architects
 
@@ -103,7 +103,7 @@ Este sonido siempre cambiante, refleja la intensidad del viento y las condicione
 
 Además, la ubicación privilegiada de la capilla frente al lago garantiza que el sonido natural y rítmico del agua y las olas del Biwa se integre constantemente en la experiencia auditiva del espacio, reforzando la conexión no visual con el entorno acuático y atmosférico circundante.
 
-https://www.youtube.com/watch?v=HKVz0ipyCBU&t=188s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKVz0ipyCBU?si=i1xgClFiWQjouDXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Estímulos olfativos y gustativos
 

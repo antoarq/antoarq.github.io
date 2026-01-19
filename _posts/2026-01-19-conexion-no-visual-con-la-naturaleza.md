@@ -2,7 +2,7 @@
 layout: post
 title:  Conexion No Visual Con La Naturaleza
 date:   2026-01-19
-image:  ../img/conexion-no-visual\grow-residence17.jpg 
+image:  ../img/conexion-no-visual/grow-residence17.jpg 
 tags:   Cities
 ---
 

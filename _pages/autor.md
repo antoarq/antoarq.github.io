@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autor
-image: author.jpg
+image: autor21.jpg
 permalink: /about/
 ---
 

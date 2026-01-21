@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-image: 08.jpg
+title: Autor
+image: author.jpg
 permalink: /about/
 ---
 
